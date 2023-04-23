@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Figura {
+package Figura;
+
+public interface Figura {
+    public double CalcularArea();
 }
